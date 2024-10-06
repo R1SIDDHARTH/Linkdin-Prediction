@@ -65,4 +65,4 @@ python linkedin_skill_prediction.py
 ## Results
 
 - **Skill Prediction Accuracy**: The logistic regression and random forest models provide an accuracy score along with detailed metrics like precision, recall, and F1-score.
-- **Feature Importance**: The features used in the models are ranked based on their importance in predicting skills like Python or Java.
+- **Feature Importance**: The features used in the models are ranked based on their importance in predicting skills like Python or Java
